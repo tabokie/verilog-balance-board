@@ -1,4 +1,4 @@
-# verilog-3d-first-person
+# verilog-balance-board
 
 A small game run on FPGA with natural motion and 3D effect.
 
